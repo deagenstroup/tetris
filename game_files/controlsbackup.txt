@@ -1,0 +1,7 @@
+moveright Right
+moveleft Left
+phase S
+rotateclockwise D
+rotatecounterclockwise A
+hold Up
+restartgame T
